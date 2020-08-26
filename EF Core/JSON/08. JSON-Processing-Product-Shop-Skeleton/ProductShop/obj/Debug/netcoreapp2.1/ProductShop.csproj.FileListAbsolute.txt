@@ -1,0 +1,10 @@
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Github Repos\C# Databases\EF Core\JSON\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
